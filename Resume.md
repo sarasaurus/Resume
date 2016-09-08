@@ -17,7 +17,7 @@ Phone: ###-###-####
 ####Teacher  
 [Gage Academy of Art][4]  |  2011-current  
 [Winslow Art Center][5]  |  2012-current  
-*Developing my own curriculum
+*  Developing my own curriculum
 
 ####Studio Assistant  
 [Betty Merken Studios][6]  |  2011-2014    
