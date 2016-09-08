@@ -17,20 +17,22 @@ Phone: ###-###-####
 ####Teacher  
 [Gage Academy of Art][4]  |  2011-current  
 [Winslow Art Center][5]  |  2012-current  
+*Developing my own curriculum
+
 ####Studio Assistant  
 [Betty Merken Studios][6]  |  2011-2014    
-*Updating and formatting the website  
-*Modified base template using __CSS__ and __HTML__  
+*  Updating and formatting the website  
+*  Modified base template using __CSS__ and __HTML__  
 
 ####Barista   
 [Victrola Coffee Roasters][7]  |  2011-2012    
->Perfecting a Process  
->Maintaining Poise in a fast paced environment  
->Pulling consistent espresso, manipulating brewing variables to produce a consistent and balanced shot  
+*  Perfecting a Process  
+*  Maintaining Poise in a fast paced environment  
+*  Pulling consistent espresso, manipulating brewing variables to produce a consistent and balanced shot  
 
 [Top Pot Doughnuts][8]  |  2007-2010  
->Greeting customers
->Maintaining poise in a high-volume establishment
+*  Greeting customers
+*  Maintaining poise in a high-volume establishment
 
 
 
