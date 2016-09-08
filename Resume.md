@@ -20,7 +20,8 @@ Phone: ###-###-####
 ####Studio Assistant  
 [Betty Merken Studios][6]  |  2011-2014    
 >Updating and formatting the website  
-  modified base template using __CSS__ and __HTML__   
+>modified base template using __CSS__ and __HTML__  
+
 ####Barista   
 [Victrola Coffee Roasters][7]  |  2011-2012    
 >Perfecting a Process  
@@ -28,7 +29,8 @@ Phone: ###-###-####
 >Pulling consistent espresso, manipulating brewing variables to produce a consistent and balanced shot  
 >  
 [Top Pot Doughnuts][8]  |  2007-2010  
-
+>Greeting customers
+>Maintaining poise in a high-volume establishment
 
 
 
