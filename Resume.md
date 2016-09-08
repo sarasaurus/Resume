@@ -18,11 +18,7 @@ Phone: ###-###-####
 [Gage Academy of Art][4]  |  2011-current  
 [Winslow Art Center][5]  |  2012-current  
 *  Developing my own Curriculum for Teens and Adults  
-    Beginning Drawing  
-    Gouache Portraiture  
-    Color Pencil Portraits  
-    Beginning Oil Paintings  
-    ...etc.  
+    Classes I've taught include: Beginning Drawing,  Gouache Portraiture, Color Pencil Portraits, Beginning Oil Painting ...etc.  
 
 ####Studio Assistant  
 [Betty Merken Studios][6]  |  2011-2014    
