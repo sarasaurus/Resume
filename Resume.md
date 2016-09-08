@@ -11,8 +11,8 @@ phone ##
 
 
 ###  EDUCATION
-  [University of Washington][1]  |  2011
-  [Gage Academy of Art][2]  |  2009
+  | [University of Washington][1] | 2011 |  
+  | [Gage Academy of Art][2]| 2009 |  
     
 ###  WORK EXPERIENCE  
   Teacher at:  
