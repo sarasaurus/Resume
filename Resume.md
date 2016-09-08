@@ -10,14 +10,13 @@ phone ##
 
 
 ###  EDUCATION
-[The University of Washington][1]  |  2011
+[The University of Washington][1]  |  2011  
 [Gage Academy of Art][2]  |  2009 
   
 
 ###  WORK EXPERIENCE  
-
 ####Teacher at:  
-  [Gage Academy of Art][4]  |  2011-current  
+  #####[Gage Academy of Art][4]  #####|  2011-current  
   [Winslow Art Center][5]  |  2012-current  
 ####Studio Assistant and Web Page Builder/Modifier/Updater at:  
 [Betty Merken Studios][6]  |  2011-2014  
