@@ -11,8 +11,8 @@ phone ##
 
 
 ###  EDUCATION  
-[University of Washington][3]  
-[Gage Academy of Art][4]  
+>[University of Washington][3]  
+>[Gage Academy of Art][4]  
 
 ###  WORK EXPERIENCE  
 Teacher at  
