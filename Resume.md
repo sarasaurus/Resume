@@ -1,7 +1,7 @@
-###Sarah Bixler  
-[www.sarahbixler.com][1]  
-[bixler.s.e@gmail.com][2]  
-phone ##
+###SARAH BIXLER
+Artwork: [www.sarahbixler.com][1]  
+Email: [bixler.s.e@gmail.com][2]  
+Phone: ###-###-####
 
 ###  FUN FACTS
 >I built my own computer from scratch  
@@ -11,17 +11,22 @@ phone ##
 
 ###  EDUCATION
 [The University of Washington][1]  |  2011  
-[Gage Academy of Art][2]  |  2009 
-  
+[Gage Academy of Art][2]  |  2009  
 
 ###  WORK EXPERIENCE  
 ####Teacher  
 [Gage Academy of Art][4]  |  2011-current  
 [Winslow Art Center][5]  |  2012-current  
 ####Studio Assistant  
-[Betty Merken Studios][6]  |  2011-2014  
-####Barista at  
-[Victrola Coffee Roasters][7]  |  2011-2012  
+[Betty Merken Studios][6]  |  2011-2014    
+>Updating and formatting the website  
+  modified base template using __CSS__ and __HTML__   
+####Barista   
+[Victrola Coffee Roasters][7]  |  2011-2012    
+>Perfecting a Process  
+>Maintaining Poise in a fast paced environment  
+>Pulling consistent espresso, manipulating brewing variables to produce a consistent and balanced shot  
+>  
 [Top Pot Doughnuts][8]  |  2007-2010  
 
 
