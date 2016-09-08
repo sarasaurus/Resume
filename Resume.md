@@ -27,7 +27,7 @@ Phone: ###-###-####
 >Perfecting a Process  
 >Maintaining Poise in a fast paced environment  
 >Pulling consistent espresso, manipulating brewing variables to produce a consistent and balanced shot  
->  
+
 [Top Pot Doughnuts][8]  |  2007-2010  
 >Greeting customers
 >Maintaining poise in a high-volume establishment
