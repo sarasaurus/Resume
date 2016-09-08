@@ -11,18 +11,18 @@ phone ##
 
 
 ###  EDUCATION  
-[University of Washington][3]
+[University of Washington][3]  
 [Gage Academy of Art][4]  
 
-###  WORK EXPERIENCE
-Teacher at 
-    [Gage Academy of Art][4]
-    [Winslow Art Center][5]
-Studio Assistant and Web Page Builder/Modifier/Updater at
-    [Betty Merken Studios][6]
-Barista at 
-    [Victrola Coffee Roasters][7]
-    [Top Pot Doughnuts][8]
+###  WORK EXPERIENCE  
+Teacher at  
+    [Gage Academy of Art][4]  
+    [Winslow Art Center][5]  
+Studio Assistant and Web Page Builder/Modifier/Updater at  
+    [Betty Merken Studios][6]  
+Barista at  
+    [Victrola Coffee Roasters][7]  
+    [Top Pot Doughnuts][8]  
 
 
 
