@@ -13,7 +13,6 @@ phone ##
 ###  EDUCATION  
     [University of Washington][3]
     [Gage Academy of Art][4]  
-
 ###  WORK EXPERIENCE  
 Teacher at  
     [Gage Academy of Art][4]  
