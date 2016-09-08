@@ -1,6 +1,6 @@
-###Sarah Bixler
-[www.sarahbixler.com][1]
-[bixler.s.e@gmail.com][2]
+###Sarah Bixler  
+[www.sarahbixler.com][1]  
+[bixler.s.e@gmail.com][2]  
 phone ##
 
 ###  FUN FACTS
