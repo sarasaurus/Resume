@@ -19,8 +19,8 @@ Phone: ###-###-####
 [Winslow Art Center][5]  |  2012-current  
 ####Studio Assistant  
 [Betty Merken Studios][6]  |  2011-2014    
->Updating and formatting the website  
->modified base template using __CSS__ and __HTML__  
+*Updating and formatting the website  
+*Modified base template using __CSS__ and __HTML__  
 
 ####Barista   
 [Victrola Coffee Roasters][7]  |  2011-2012    
