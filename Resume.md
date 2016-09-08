@@ -5,21 +5,20 @@ phone ##
 
 ###  FUN FACTS
 >I built my own computer from scratch  
->I built a bunch of websites using _html_ and _css_ in highschool using notebook as my only editer.   
 >I like a challenge.  
 >Most of my clothes have some paint on them somewhere.  
 
 
 ###  EDUCATION
-  | _[The University of Washington][1]_ | 2011 |  
-  | _[Gage Academy of Art][2]_ | 2009 |   
+  | [The University of Washington][1] | 2011 |  
+  | [Gage Academy of Art][2] | 2009 |   
   
 
 ###  WORK EXPERIENCE  
 
   ####Teacher at:  
-    [Gage Academy of Art][4]  |  2011-current    
-    [Winslow Art Center][5]  |  2012-current  
+|    [Gage Academy of Art][4]  |  2011-current    |
+ |   [Winslow Art Center][5]  |  2012-current  |
     
   ####Studio Assistant and Web Page Builder/Modifier/Updater at:      
     [Betty Merken Studios][6]  |  2011-2014  
