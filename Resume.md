@@ -17,14 +17,19 @@ Phone: ###-###-####
 ####Teacher  
 [Gage Academy of Art][4]  |  2011-current  
 [Winslow Art Center][5]  |  2012-current  
-*  Developing my own curriculum
+*  Developing my own Curriculum for Teens and Adults
+    Beginning Drawing  
+    Gouache Portraiture  
+    Color Pencil Portraits
+    Beginning Oil Paintings
+    ...etc.
 
 ####Studio Assistant  
 [Betty Merken Studios][6]  |  2011-2014    
 *  Updating and formatting the website  
-*  Modified base template using __CSS__ and __HTML__  
+    Modified base template using __CSS__ and __HTML__  
 *  Mainting a clean/orderly studio environment
-*  Registering and inking plates, consistently and maintained a record of standards and exceptions.  
+*  Registering and inking plates consistently and maintained a record of standards and exceptions.  
 *  Stretching and Gessoing Canvasses
 *  Preparing Artwork for shipping - Packing crates, wrapping canvases and prints
 
