@@ -4,9 +4,9 @@ Email: [bixler.s.e@gmail.com][2]
 Phone: ###-###-####
 
 ###  FUN FACTS
->I built my own computer from scratch  
->I like a challenge.  
->Most of my clothes have some paint on them somewhere.  
+*  I like a __challenge__.
+*  I built my own desktop computer from scratch and have opened up all of my electronic devices, to install screens, batteries or keyboards ~~gotta be more careful with elctronics and liquids~~.
+*  ~~Some~~ _Most_ of my clothes have some paint on them somewhere.  
 
 
 ###  EDUCATION
@@ -23,6 +23,10 @@ Phone: ###-###-####
 [Betty Merken Studios][6]  |  2011-2014    
 *  Updating and formatting the website  
 *  Modified base template using __CSS__ and __HTML__  
+*  Mainting a clean/orderly studio environment
+*  Registering and inking plates, consistently and maintained a record of standards and exceptions.  
+*  Stretching and Gessoing Canvasses
+*  Preparing Artwork for shipping - Packing crates, wrapping canvases and prints
 
 ####Barista   
 [Victrola Coffee Roasters][7]  |  2011-2012    
