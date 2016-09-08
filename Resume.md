@@ -10,10 +10,9 @@ phone ##
 *  Most of my clothes have some paint on them somewhere.
 
 
-###  EDUCATION  
-    [University of Washington][3]
-    [Gage Academy of Art][4]  
-    
+###  EDUCATION
+  [University o Washington][1]
+  [Gage Academy of Art][2]
     
 ###  WORK EXPERIENCE  
   Teacher at:  
