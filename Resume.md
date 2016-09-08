@@ -19,13 +19,11 @@ phone ##
 ####Teacher at:  
   [Gage Academy of Art][4]  |  2011-current  
   [Winslow Art Center][5]  |  2012-current  
-  
-####Studio Assistant and Web Page Builder/Modifier/Updater at:        
-    [Betty Merken Studios][6]  |  2011-2014  
-    
-####Barista at:    
-    [Victrola Coffee Roasters][7]  |  2011-2012  
-    [Top Pot Doughnuts][8]  |  2007-2010  
+####Studio Assistant and Web Page Builder/Modifier/Updater at:  
+[Betty Merken Studios][6]  |  2011-2014  
+####Barista at:  
+[Victrola Coffee Roasters][7]  |  2011-2012  
+[Top Pot Doughnuts][8]  |  2007-2010  
 
 
 
