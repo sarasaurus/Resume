@@ -14,13 +14,13 @@ Phone: ###-###-####
 [Gage Academy of Art][4]  |  2009  
 
 ###  WORK EXPERIENCE  
-####Teacher  
+#### Teacher  
 [Gage Academy of Art][4]  |  2011-current  
 [Winslow Art Center][5]  |  2012-current  
 *  Developing my own Curriculum for Teens and Adults  
     Classes I've taught include: Beginning Drawing,  Gouache Portraiture, Color Pencil Portraits, Beginning Oil Painting ...etc.  
 
-####Studio Assistant  
+#### Studio Assistant  
 [Betty Merken Studios][6]  |  2011-2014    
 *  Updating and formatting the website  
     Modified base template using __CSS__ and __HTML__  
@@ -29,7 +29,7 @@ Phone: ###-###-####
 *  Stretching and Gessoing Canvasses
 *  Preparing Artwork for shipping - Packing crates, wrapping canvases and prints
 
-####Barista   
+#### Barista   
 [Victrola Coffee Roasters][7]  |  2011-2012    
 *  Perfecting a Process  
 *  Maintaining Poise in a fast paced environment  
