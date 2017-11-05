@@ -14,11 +14,12 @@ Phone: ###-###-####
 [Gage Academy of Art][4]  |  2009  
 
 ###  WORK EXPERIENCE  
-#### Teacher  
+#### Teaching  
 [Gage Academy of Art][4]  |  2011-current  
 [Winslow Art Center][5]  |  2012-current  
+[Seattle Artist League][10]  |  2017-current
 *  Developing my own Curriculum for Teens and Adults  
-    Classes I've taught include: Beginning Drawing,  Gouache Portraiture, Color Pencil Portraits, Beginning Oil Painting ...etc.  
+    Classes and workshops I've taught include: Beginning Drawing,  Gouache Portraiture, Color Pencil Portraits, Beginning Oil Painting ...etc.  
 
 #### Studio Assistant  
 [Betty Merken Studios][6]  |  2011-2014    
@@ -47,3 +48,4 @@ Phone: ###-###-####
 [7]:  http://www.victrolacoffeeroasters.com
 [8]:  http://www.toppotdoughnuts.com
 [9]:  http://fuelcoffeeseattle.com/
+[10]: http://seattleartistleague.com/
