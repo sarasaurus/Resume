@@ -24,12 +24,16 @@ Phone: ###-###-####
 [Betty Merken Studios][6]  |  2011-2014    
 *  Updating and formatting the website  
     Modified base template using __CSS__ and __HTML__  
-*  Mainting a clean/orderly studio environment
+*  Maintaining a clean/orderly studio environment
 *  Registering and inking plates consistently and maintained a record of standards and exceptions.  
 *  Stretching and Gessoing Canvasses
 *  Preparing Artwork for shipping - Packing crates, wrapping canvases and prints
 
-#### Barista   
+#### Barista
+[Fuel][9]  
+*  Greeting customers
+*  Working efficiently with coworkers
+*  Manipulating brewing variables to pour balanced and consistent espresso
 [Victrola Coffee Roasters][7]  |  2011-2012    
 *  Perfecting a Process  
 *  Maintaining Poise in a fast paced environment  
@@ -50,3 +54,4 @@ Phone: ###-###-####
 [6]:  http://www.bettymerkenstudio.com
 [7]:  http://www.victrolacoffeeroasters.com
 [8]:  http://www.toppotdoughnuts.com
+[9]:  http://fuelcoffeeseattle.com/
