@@ -30,20 +30,11 @@ Phone: ###-###-####
 *  Preparing Artwork for shipping - Packing crates, wrapping canvases and prints
 
 #### Barista
-[Fuel][9]  | briefly in 2017
+[Fuel][9], [Victrola Coffee Roasters][7], [Top Pot Doughnuts][8]
 *  Greeting customers
 *  Working efficiently with coworkers
 *  Manipulating brewing variables to pour balanced and consistent espresso
-
-[Victrola Coffee Roasters][7]  |  2011-2012    
-*  Perfecting a Process  
 *  Maintaining Poise in a fast paced environment  
-*  Pulling consistent espresso, manipulating brewing variables to produce a consistent and balanced shot  
-
-[Top Pot Doughnuts][8]  |  2007-2010  
-*  Greeting customers
-*  Maintaining poise in a high-volume establishment
-
 
 
 
