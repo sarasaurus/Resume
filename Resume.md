@@ -30,7 +30,7 @@ Phone: ###-###-####
 *  Preparing Artwork for shipping - Packing crates, wrapping canvases and prints
 
 #### Barista
-[Fuel][9]  
+[Fuel][9]  | briefly in 2017
 *  Greeting customers
 *  Working efficiently with coworkers
 *  Manipulating brewing variables to pour balanced and consistent espresso
