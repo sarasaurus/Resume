@@ -5,8 +5,7 @@ Phone: ###-###-####
 
 ###  FUN FACTS
 *  I like a __challenge__.
-*  I built my own desktop computer from scratch and have opened up all of my electronic devices, to install screens, batteries or keyboards ~~gotta be more careful with elctronics and liquids~~.
-*  ~~Some~~ _Most_ of my clothes have some paint on them somewhere.  
+*  I spent 2016 traveling around the country in a two door Yaris   
 
 
 ###  EDUCATION
