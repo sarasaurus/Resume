@@ -34,6 +34,7 @@ Phone: ###-###-####
 *  Greeting customers
 *  Working efficiently with coworkers
 *  Manipulating brewing variables to pour balanced and consistent espresso
+
 [Victrola Coffee Roasters][7]  |  2011-2012    
 *  Perfecting a Process  
 *  Maintaining Poise in a fast paced environment  
