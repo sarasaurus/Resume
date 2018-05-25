@@ -17,7 +17,8 @@ Phone: ###-###-####
 [Gage Academy of Art][4]  |  2011-current  
 [Winslow Art Center][5]  |  2012-current  
 [Seattle Artist League][10]  |  2017-current
-*  Developing my own Curriculum for Teens and Adults  
+[Bainbridge Island Museum of Art][11] | 2018-current
+*  Developing and implementing arts curriculum for Teens and Adults  
     Classes and workshops I've taught include: Beginning Drawing,  Gouache Portraiture, Color Pencil Portraits, Beginning Oil Painting ...etc.  
 
 #### Studio Assistant  
@@ -29,12 +30,12 @@ Phone: ###-###-####
 *  Stretching and Gessoing Canvasses
 *  Preparing Artwork for shipping - Packing crates, wrapping canvases and prints
 
-#### Barista
+<!-- #### Barista
 [Fuel][9], [Victrola Coffee Roasters][7], [Top Pot Doughnuts][8]
 *  Greeting customers
 *  Working efficiently with coworkers
 *  Manipulating brewing variables to pour balanced and consistent espresso
-*  Maintaining Poise in a fast paced environment  
+*  Maintaining Poise in a fast paced environment  -->
 
 
 
@@ -48,3 +49,4 @@ Phone: ###-###-####
 [8]:  http://www.toppotdoughnuts.com
 [9]:  http://fuelcoffeeseattle.com/
 [10]: http://seattleartistleague.com/
+[11]: https://www.biartmuseum.org/
