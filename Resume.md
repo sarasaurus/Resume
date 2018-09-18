@@ -33,9 +33,9 @@ A Single Page Application that uses OAuth to sign users into their spotify accou
 
 ###  EDUCATION
 [Code Fellows][12]  |  Full Stack Software Development Certificate in JavaScript 2018 
-[Teaching Artist Training Lab][14]  |  Washington State Arts Commission 2017  
-[The University of Washington][3]  |  Bachelors of Fine Art 2011  (GPA: 3.7)
-[Gage Academy of Art][4]  |  2009  
+[Teaching Artist Training Lab][14]  |  Washington State Arts Commission 2017   
+[The University of Washington][3]  |  Bachelors of Fine Art 2011  (GPA: 3.7) 
+[Gage Academy of Art][4]  |  2009   
 
 
 ###  WORK EXPERIENCE  
