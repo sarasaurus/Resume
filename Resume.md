@@ -16,14 +16,14 @@ Phone: ###-###-####
 *  An npm package that exports a function which users can plug any where into their project to send error messages to their phone using the Twilio API.   Sent messages are automatically stored in a database
 *  Developed using test driven development in JavaScript, MongoDB and Mongoose, Express, Node.js and the Jest testing library
 
-#### Happy Plus Plus | December 2017 |   
+#### Happy Plus Plus | December 2017 
 #### [Github Repo][17] | [Deployed site][18]
 *  A single page web site that uses restful endpoints to query the youtube API with specific keywords that allow users to make a list of favorites videos using local storage 
 *  The site was developed with HTML, CSS and JavaScript (ES5).  Backend routes are served using the express framework with page.js routing, a SQL database stores user generated playlists, JQuery handles dynamic content
 *  HTML5, CSS3 with SMACSS organization
 *  Agile Development practices
 
-#### Music Match app | May 2018 | 
+#### Music Match app | May 2018 
 #### [Client][19] | [Server][20]  
 A Single Page Application that uses OAuth to sign users into their spotify accounts, then allows users to upload a photo of a face which is used to generate a playlist of songs matching the emotion in the image
 *  Backend enpoints send the image to AWS, and then query the Azure cognitive face API and the Spotify Playlist API
@@ -43,8 +43,12 @@ A Single Page Application that uses OAuth to sign users into their spotify accou
 [Gage Academy of Art][4]  |  2011-current  
 [Winslow Art Center][5]  |  2012-current  
 [Seattle Artist League][10]  |  2017-current  
-[Bainbridge Island Museum of Art][11] | 2018-current
-*  Developing and implementing progressive arts curriculum for Teens and Adults  
+[Bainbridge Island Museum of Art][11] | 2018-current 
+[Bellevue Arts Museum][22] | 2018  
+[Amazon][21] | 2017
+*  Designed and implemented curriculum for Painting and Drawing workshops — analyzed current practices and methodologies for arts curriculum and classroom inclusion
+*  Directed and guided a team of Teaching Assistants
+ 
 <!-- #### Studio Assistant  
 [Betty Merken Studios][6]  |  2011-2014    
 *  Updating and formatting the website  
@@ -84,3 +88,5 @@ A Single Page Application that uses OAuth to sign users into their spotify accou
 [18]: https://sarahlizaozge.github.io/happyPlusPlus_client/
 [19]: https://github.com/MusicPic/frontend
 [20]: https://github.com/MusicPic/backend
+[21]: http://www.amazon.com
+[22]: http://www.bellevueartmuseum.com
