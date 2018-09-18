@@ -1,4 +1,4 @@
-###  SARAH BIXLER
+##  SARAH BIXLER
 Projects:  [www.sarahbixler.me][13]   
 Artwork: [www.sarahbixler.com][1]  
 Email: [bixler.s.e@gmail.com][2]  
