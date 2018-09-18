@@ -6,7 +6,7 @@ Phone: ###-###-####
 
 ###  TECHNICAL SKILLS
 *  Languages: JavaScript (ES6), HTML5, CSS3 with SASS, SQL
-*  Utilties/Tools: git, bash, Visual Studio Code, Atom
+*  Utilties/Tools: git, bash, Visual Studio Code, Atom, Agile Development, Test Driven Development
 * Libraries and Frameworks: Express, Node.js, React.js, MongoDB, PostgreSQL, jQuery
 *  Testing: Jest, Enzyme 
 
@@ -14,7 +14,7 @@ Phone: ###-###-####
 #### SOS-SMS | May 2018   
 #### [NPM package][15] | [Server][16]  
 *  An npm package that exports a function which users can plug any where into their project to send error messages to their phone using the Twilio API.   Sent messages are automatically stored in a database
-*  Developed using test driven development in JavaScript, MongoDB and Mongoose, Express, Node.js and the Jest testing library
+*  Developed using Agile methodologies and test driven development in JavaScript, MongoDB and Mongoose, Express, Node.js and the Jest testing library
 
 #### Happy Plus Plus | December 2017 
 #### [Github Repo][17] | [Deployed site][18]
