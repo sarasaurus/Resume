@@ -32,19 +32,19 @@ A Single Page Application that uses OAuth to sign users into their spotify accou
 
 
 ###  EDUCATION
-[Code Fellows][12]  |  Full Stack Software Development Certificate in JavaScript 2018 
-[Teaching Artist Training Lab][14]  |  Washington State Arts Commission 2017   
-[The University of Washington][3]  |  Bachelors of Fine Art 2011  (GPA: 3.7) 
+[Code Fellows][12]  |  Full Stack Software Development Certificate in JavaScript 2018  
+[Teaching Artist Training Lab][14]  |  Washington State Arts Commission 2017     
+[The University of Washington][3]  |  Bachelors of Fine Art 2011  (GPA: 3.7)   
 [Gage Academy of Art][4]  |  2009   
 
 
 ###  WORK EXPERIENCE  
 #### Teaching  
-[Gage Academy of Art][4]  |  2011-current  
-[Winslow Art Center][5]  |  2012-current  
-[Seattle Artist League][10]  |  2017-current  
-[Bainbridge Island Museum of Art][11] | 2018-current  
-[Bellevue Arts Museum][22] | 2018   
+[Gage Academy of Art][4]  |  2011-current 
+[Winslow Art Center][5]  |  2012-current    
+[Seattle Artist League][10]  |  2017-current   
+[Bainbridge Island Museum of Art][11] | 2018-current    
+[Bellevue Arts Museum][22] | 2018     
 [Amazon][21] | 2017 
 *  Designed and implemented curriculum for Painting and Drawing workshops — analyzed current practices and methodologies for arts curriculum and classroom inclusion
 *  Directed and guided a team of Teaching Assistants
