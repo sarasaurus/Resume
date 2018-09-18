@@ -43,9 +43,9 @@ A Single Page Application that uses OAuth to sign users into their spotify accou
 [Gage Academy of Art][4]  |  2011-current  
 [Winslow Art Center][5]  |  2012-current  
 [Seattle Artist League][10]  |  2017-current  
-[Bainbridge Island Museum of Art][11] | 2018-current 
-[Bellevue Arts Museum][22] | 2018  
-[Amazon][21] | 2017
+[Bainbridge Island Museum of Art][11] | 2018-current  
+[Bellevue Arts Museum][22] | 2018   
+[Amazon][21] | 2017 
 *  Designed and implemented curriculum for Painting and Drawing workshops — analyzed current practices and methodologies for arts curriculum and classroom inclusion
 *  Directed and guided a team of Teaching Assistants
  
