@@ -1,8 +1,8 @@
 ##  SARAH BIXLER
-Projects:  [www.sarahbixler.me][13]   
-Artwork: [www.sarahbixler.com][1]  
+<!-- Projects:  [www.sarahbixler.me][13]   
+Artwork: [www.sarahbixler.com][1]   -->
 Email: [bixler.s.e@gmail.com][2]  
-Phone: ###-###-####
+Phone: 206-817-1458
 
 ###  TECHNICAL SKILLS
 *  Languages: JavaScript (ES6), HTML5, CSS3 with SASS, SQL
